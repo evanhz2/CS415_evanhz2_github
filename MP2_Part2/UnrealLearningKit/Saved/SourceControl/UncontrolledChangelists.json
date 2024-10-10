@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/NewMap.umap",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Map/NewMap.umap",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Map/MP2_Map.umap",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/UI/BP_UI.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/UI/BP_GameOver.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Meshes/BP_Collectible.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/Powerups/Powerup_A/SM_Powerup_01_Shard01.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/PuzzlePieces/PuzzleSphere_A/SM_PuzzleSphere_A2.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/PuzzlePieces/PuzzleSphere_A/SM_PuzzleSphere_A3.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/PuzzlePieces/PuzzleSphere_A/SM_PuzzleSphere_A.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Meshes/Tree_Bark.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Meshes/Apple_BottonPart.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Meshes/Material_001.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Meshes/Apple_Vert_001.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Meshes/BP_Apple.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/PuzzlePieces/PuzzleSphere_A/SM_PuzzleSphere_A1.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/EAIState.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Pursuer_AIController.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/BP_Pursuer.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Meshes/Mortar/open.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Meshes/Mortar/Material_002.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Meshes/Mortar/Material_003.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Meshes/Mortar/BP_Mortar.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Meshes/Mortar/BP_CannonBall.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/BP_ZapperRobot.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/ZapperRobot_AI.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/EndGate.uasset",
+				"C:/Users/evanz/OneDrive/Desktop/UIUC/CS415/UnrealLearningKit/Content/MP2_Game/Meshes/Mortar/Cannon_Material.uasset"
+			]
+		}
+	]
+}
